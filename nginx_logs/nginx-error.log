@@ -1,0 +1,27 @@
+2020/07/23 11:58:04 [error] 30#30: *4 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.26.0.1, server: cost.my.home, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2020/07/23 11:58:56 [emerg] 1#1: invalid number of arguments in "user" directive in /etc/nginx/nginx.conf:2
+2020/07/23 11:58:56 [emerg] 1#1: invalid number of arguments in "user" directive in /etc/nginx/nginx.conf:2
+2020/07/23 11:58:57 [emerg] 1#1: invalid number of arguments in "user" directive in /etc/nginx/nginx.conf:2
+2020/07/23 11:58:58 [emerg] 1#1: invalid number of arguments in "user" directive in /etc/nginx/nginx.conf:2
+2020/07/23 11:59:00 [emerg] 1#1: invalid number of arguments in "user" directive in /etc/nginx/nginx.conf:2
+2020/07/23 11:59:02 [emerg] 1#1: invalid number of arguments in "user" directive in /etc/nginx/nginx.conf:2
+2020/07/23 11:59:06 [emerg] 1#1: invalid number of arguments in "user" directive in /etc/nginx/nginx.conf:2
+2020/07/23 11:59:13 [emerg] 1#1: invalid number of arguments in "user" directive in /etc/nginx/nginx.conf:2
+2020/07/23 11:59:26 [emerg] 1#1: invalid number of arguments in "user" directive in /etc/nginx/nginx.conf:2
+2020/07/23 11:59:52 [emerg] 1#1: invalid number of arguments in "user" directive in /etc/nginx/nginx.conf:2
+2020/07/23 12:36:56 [emerg] 1#1: unknown directive "clietn_header_timeout" in /etc/nginx/nginx.conf:16
+2020/07/23 12:36:57 [emerg] 1#1: unknown directive "clietn_header_timeout" in /etc/nginx/nginx.conf:16
+2020/07/23 12:36:57 [emerg] 1#1: unknown directive "clietn_header_timeout" in /etc/nginx/nginx.conf:16
+2020/07/23 12:36:58 [emerg] 1#1: unknown directive "clietn_header_timeout" in /etc/nginx/nginx.conf:16
+2020/07/23 12:37:02 [emerg] 1#1: unknown directive "clietn_header_timeout" in /etc/nginx/nginx.conf:16
+2020/07/23 12:37:03 [emerg] 1#1: unknown directive "clietn_header_timeout" in /etc/nginx/nginx.conf:16
+2020/07/23 12:37:04 [emerg] 1#1: unknown directive "clietn_header_timeout" in /etc/nginx/nginx.conf:16
+2020/07/23 12:37:05 [emerg] 1#1: unknown directive "clietn_header_timeout" in /etc/nginx/nginx.conf:16
+2020/07/23 12:37:06 [emerg] 1#1: unknown directive "clietn_header_timeout" in /etc/nginx/nginx.conf:16
+2020/07/23 12:37:08 [emerg] 1#1: unknown directive "clietn_header_timeout" in /etc/nginx/nginx.conf:16
+2020/07/23 12:37:12 [emerg] 1#1: unknown directive "clietn_header_timeout" in /etc/nginx/nginx.conf:16
+2020/07/23 12:37:19 [emerg] 1#1: unknown directive "clietn_header_timeout" in /etc/nginx/nginx.conf:16
+2020/07/23 12:37:32 [emerg] 1#1: "sendfile" directive is duplicate in /etc/nginx/nginx.conf:20
+2020/07/23 12:37:59 [emerg] 1#1: "sendfile" directive is duplicate in /etc/nginx/nginx.conf:20
+2020/07/23 12:38:50 [emerg] 1#1: "sendfile" directive is duplicate in /etc/nginx/nginx.conf:20
+2020/07/23 12:39:51 [emerg] 1#1: "sendfile" directive is duplicate in /etc/nginx/nginx.conf:20
